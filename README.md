@@ -181,6 +181,9 @@ ANDROID MANIFEST-XML
 
 ## OUTPUT
 
+![WhatsApp Image 2024-04-08 at 8 17 53 AM](https://github.com/21002469/lifecyclemethods/assets/113591539/7679ee07-5ef4-43e5-b458-d7a794a71114)
+
+
 
 
 
